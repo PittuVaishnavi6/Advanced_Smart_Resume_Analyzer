@@ -92,7 +92,7 @@ An advanced full-stack Resume Analyzer web application built using **Spring Boot
 - See resume feedback stats
 - Dashboard Table:
 | Skill | Matched Count | Missing Count |
-|-------|----------------|----------------|
+
 
 ---
 
