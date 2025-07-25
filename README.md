@@ -278,4 +278,7 @@ resume-analyzer/
                 └── smartresume/
                     └── ResumeAnalyzerApplicationTests.java
 
+<img width="1913" height="707" alt="output1" src="https://github.com/user-attachments/assets/73c5f9ad-d2d3-43df-aa52-d108b4996c89" />
+
+
 Developed & maintained by: [PITTU VAISHNAVI]
