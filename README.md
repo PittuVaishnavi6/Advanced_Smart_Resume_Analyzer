@@ -148,6 +148,8 @@ An advanced full-stack Resume Analyzer web application built using **Spring Boot
  git clone https://github.com/yourusername/smart-resume-analyzer.git
  cd smart-resume-analyzer
 
+
+
 2. Setup MySQL:
 
 CREATE DATABASE resume_analyzer_db;
@@ -279,5 +281,5 @@ resume-analyzer/
                     └── ResumeAnalyzerApplicationTests.java
 
 
-You can visit output of this project in my LinkedIn[https://www.linkedin.com/in/pittu-vaishnavi-8b2481295/](url)
+You can visit output of this project in my LinkedIn[https://www.linkedin.com/in/pittu-vaishnavi-8b2481295/]
 Developed & maintained by: [PITTU VAISHNAVI]
