@@ -281,5 +281,6 @@ resume-analyzer/
                     └── ResumeAnalyzerApplicationTests.java
 
 
-You can visit output of this project in my [LinkedIn](https://www.linkedin.com/in/pittu-vaishnavi-8b2481295/)
+You can visit output of this project in my
+[LinkedIn](https://www.linkedin.com/in/pittu-vaishnavi-8b2481295/)
 Developed & maintained by: [PITTU VAISHNAVI]
