@@ -1,6 +1,6 @@
 ##  Link
 
-🔗 [LinkedIn Profile]([https://www.linkedin.com/in/pittu-vaishnavi-8b2481295](https://www.linkedin.com/feed/update/urn:li:activity:7354553476820951041/))  
+🔗 [LinkedIn Profile](https://www.linkedin.com/feed/update/urn:li:activity:7354553476820951041/)  
 
 #  Smart Resume Analyzer (Spring Boot + MySQL + Thymeleaf)
 
