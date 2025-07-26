@@ -1,4 +1,8 @@
 #  Smart Resume Analyzer (Spring Boot + MySQL + Thymeleaf)
+## 📎 Links
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/pittu-vaishnavi-8b2481295)  
+🛠️ Developed & maintained by: **Pittu Vaishnavi**
 
 An advanced full-stack Resume Analyzer web application built using **Spring Boot**, **MySQL**, **Apache Tika**, **Thymeleaf**, and **Spring Security**. It parses resumes (PDF/DOCX), extracts structured data, performs skill matching against job descriptions, generates AI-based feedback, and provides admin management tools with analytics and export features.
 
